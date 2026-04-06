@@ -1,1 +1,2 @@
-include ':app', ':vpnadaptercore'
+rootProject.name = "QRadar-Albion-Online-Android"
+include ':app', ':vpnadaptercore', ':lib'
